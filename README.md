@@ -37,7 +37,9 @@ IoT-Fi is a compact low power IoT enabled device having the capability of GSM mo
 
 ## Related Products
 
+* [IoTFi-4G]()
 
+ ![IoTFi-4G]()
 
 
 ## Product License
