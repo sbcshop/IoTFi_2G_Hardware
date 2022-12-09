@@ -27,7 +27,7 @@ IoT-Fi is a compact low power IoT enabled device having the capability of GSM mo
 
 ## Documentation
 
-* [SquaryPi Software](https://github.com/sbcshop/SquaryPi)
+* [IoTFi-2G Software](https://github.com/sbcshop/IoTFi_2G_Software)
 * [RaspberryPi PICO Getting Started with Micropython](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
 * [RaspberryPi PICO Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
 * [RP2040 Datasheet](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html)
