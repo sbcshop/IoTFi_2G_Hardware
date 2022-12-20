@@ -21,9 +21,9 @@ IoT-Fi is a compact low power IoT enabled device having the capability of GSM mo
 
 ## Repository Contents
 
-* [**/Documents**](https://github.com/sbcshop/SquaryPi-Hardware/tree/main/Documents) - This directory contains Datasheets of the components
-* [**/Design Data**](https://github.com/sbcshop/SquaryPi-Hardware/tree/main/Disign%20Data) - This directory contains Schematic and Dimension files
-* [**/Mechanical Data**](https://github.com/sbcshop/SquaryPi-Hardware/tree/main/Mechanical%20Data) - This directory contains 3D and STEP files
+* [**/Documents**](https://github.com/sbcshop/IoTFi_2G_Hardware/tree/main/Documents) - This directory contains Datasheets of the components
+* [**/Design Data**](https://github.com/sbcshop/IoTFi_2G_Hardware/tree/main/Design%20Data) - This directory contains Schematic and Dimension files
+* [**/Mechanical Data**](https://github.com/sbcshop/IoTFi_2G_Hardware/tree/main/Mechanical%20Data) - This directory contains 3D and STEP files
 
 ## Documentation
 
